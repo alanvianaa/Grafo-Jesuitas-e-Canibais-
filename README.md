@@ -4,7 +4,7 @@ by: Alan Viana do Nascimento
 
 Regras do Jogo!
 Existem 3 jesuitas e 3 canibais em uma margem do rio.
-Você precisa atravessar os Jesuítas para o outro lado da margem, porém não pode deixar mais canibais que Jesuítas em qualquer uma das margens. O barco comporta dois personagens, e ele precisa de um personagem para dirigir.
+Você precisa atravessar os Jesuítas e os canibais para o outro lado da margem, porém não pode deixar mais canibais que Jesuítas em qualquer uma das margens. O barco comporta dois personagens, e ele precisa de um personagem para dirigir.
 
 O Algoritimo cria um grafo com todas as possibilidades, e mostra o passo a passo para resolver o problema.
 
