@@ -69,3 +69,6 @@ ACHOOOOOOOOOOOOOOOOOOOUUUU
 </pre>
 
 Ao rodar o algoritimo é possivel imprimir o grafo todas as possibilidades.
+<br>
+Veja o resultado: https://raw.githubusercontent.com/alanvianaa/Grafo-Jesuitas-e-Canibais-/master/resultado.txt
+
