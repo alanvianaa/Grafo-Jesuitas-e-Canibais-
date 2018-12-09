@@ -68,4 +68,4 @@ ACHOOOOOOOOOOOOOOOOOOOUUUU
 
 </pre>
 
-Ao rodar o algoritimo é possivel imprimir todas as possibilidades.
+Ao rodar o algoritimo é possivel imprimir o grafo todas as possibilidades.
