@@ -1,8 +1,6 @@
 /*
  * Trabalho de GRAFOS
  * Disciplina: Algoritimo e Estrutura de Dados 2 - INF/UFG
- * Matricula: 201709624
- * Professor: Fabrizzio
  * 
  * Aluno: Alan Viana do Nascimento
  * */
