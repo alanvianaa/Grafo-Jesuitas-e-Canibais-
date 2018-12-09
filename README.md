@@ -8,7 +8,7 @@ Você precisa atravessar os Jesuítas para o outro lado da margem, porém não p
 
 O Algoritimo cria um grafo com todas as possibilidades, e mostra o passo a passo para resolver o problema.
 
-O resultado foram 4 maneira com um total de 12 passos:
+O resultado foram 4 maneira com um total de 12 passos cada:
 <pre>ACHOOOOOOOOOOOOOOOOOOOUUUU
 -------------------(c,j)_____(c,j)
 --&gt;PASSO 12	 - (0,0)_____(3,3)
